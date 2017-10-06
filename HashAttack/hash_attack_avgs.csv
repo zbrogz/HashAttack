@@ -1,0 +1,5 @@
+Bits,,8,12,16,20
+Attempts,Pre-image Attack Averages,257,3691,67113,1050241
+,Expected Pre-image Attack Averages,256,4096,65536,1048576
+,Collision Attack Averages,20,81,305,1402
+,Expected Collision Attack Averages,16,64,256,1024
